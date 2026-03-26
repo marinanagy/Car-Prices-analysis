@@ -269,7 +269,7 @@ car-price-analysis/
 ## 👩‍💻 Author
 
 **Marina**  
-Aspiring **Data Analyst** interested in transforming raw data into meaningful insights.
+**Data Analyst** interested in transforming raw data into meaningful insights.
 
 ---
 
