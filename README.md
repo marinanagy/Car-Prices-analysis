@@ -1,4 +1,4 @@
-# Car-Prices-analysis
+# Car Prices analysis
 
 Exploratory data analysis project on used car sales data using **Python, Pandas, Matplotlib, and Seaborn** to uncover **pricing, sales, and market insights**.
 
